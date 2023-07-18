@@ -1,16 +1,26 @@
-### Hi there 👋
+> ## Hi, I'm Ana Lucia 👋😃
+> 
+> - 🌎 I'm from Guatemala
+> - 👩‍🎓 I'm a systems engineering student
+> - 🌱 Currently enrolled in **_Undefined Academy's Full-stack JavaScript Developer Bootcamp_** with Guillermo Rodas, to enhance my web programming skills.
+> - 💻 I really like everything related to programming and web development.
+>
 
-<!--
-**aluciadev01/aluciadev01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> ## 🧰 Skills:
+> + Markdown
+> + HTML
+> + CSS
+> + JavaScript
+> + Figma
+> + MySQL
+> + Git
+>
 
-Here are some ideas to get you started:
+> ## 📱Contact me:
+> + aluciadev01@gmail.com
+>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+> ## A little about me
+> - 🐶 I'm a dog lover
+> - 🍪 I like cookies 
+  
